@@ -1,6 +1,7 @@
 #include <thread>
 #include <vector>
 #include <tuple>
+#include <algorithm>
 
 #include "utils.hpp"
 #include "../core/sequentialDSU.hpp"
